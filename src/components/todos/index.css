@@ -1,0 +1,19 @@
+.todo-list-container {
+  margin: 5%;
+}
+.completed {
+  text-decoration: line-through;
+  color: lightGreen;
+}
+
+.uncompleted {
+ text-decoration: none;
+}
+
+.remove-todo {
+  cursor: pointer;
+}
+
+.todo-item {
+  display: inline-block;
+}
